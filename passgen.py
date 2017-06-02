@@ -7,14 +7,6 @@ def is_prime(num):
 			return False
 	return True
 
-def ack2(M, N):
-	if M == 0:
-		return N + 1
-	elif N == 0:
-		return ack2(M - 1, 1)
-	else:
-		return ack2(M - 1, ack2(M, N - 1))
-
 def main(argv):
 	if (len(sys.argv) != 2):
 		sys.exit('Usage: <char>')
