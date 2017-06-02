@@ -1,5 +1,4 @@
-# simple-password-generator
-Simple Python Password Generator
+## Simple Python Password Generator
 
 Works with Python 2.x and 3.x
 
@@ -9,4 +8,4 @@ Feel free to create or edit your txt file, keep it safe.
 
 Enjoy.
 
-Feel free to fork or contribute to the project.
+Contributions are welcome
