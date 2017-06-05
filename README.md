@@ -1,4 +1,4 @@
-## Simple Python Password Generator
+# Simple Python Password Generator
 
 Works with Python 2.x and 3.x
 
